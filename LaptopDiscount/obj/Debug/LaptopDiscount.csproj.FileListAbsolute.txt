@@ -1,0 +1,7 @@
+C:\Users\Rob\source\repos\LaptopDiscount\LaptopDiscount\obj\Debug\LaptopDiscount.csproj.AssemblyReference.cache
+C:\Users\Rob\source\repos\LaptopDiscount\LaptopDiscount\obj\Debug\LaptopDiscount.csproj.CoreCompileInputs.cache
+C:\Users\Rob\source\repos\LaptopDiscount\LaptopDiscount\bin\Debug\LaptopDiscount.exe.config
+C:\Users\Rob\source\repos\LaptopDiscount\LaptopDiscount\bin\Debug\LaptopDiscount.exe
+C:\Users\Rob\source\repos\LaptopDiscount\LaptopDiscount\bin\Debug\LaptopDiscount.pdb
+C:\Users\Rob\source\repos\LaptopDiscount\LaptopDiscount\obj\Debug\LaptopDiscount.exe
+C:\Users\Rob\source\repos\LaptopDiscount\LaptopDiscount\obj\Debug\LaptopDiscount.pdb
