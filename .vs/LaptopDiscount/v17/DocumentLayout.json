@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\gsmk0\\Downloads\\#3 Class - Software Quality\\LaptopDiscount\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DE16EC-2902-4E6B-8EB6-BDBC560BF964}|LaptopDiscount.Tests\\LaptopDiscount.Tests.csproj|c:\\users\\gsmk0\\downloads\\#3 class - software quality\\laptopdiscount\\laptopdiscount.tests\\discounttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DE16EC-2902-4E6B-8EB6-BDBC560BF964}|LaptopDiscount.Tests\\LaptopDiscount.Tests.csproj|solutionrelative:laptopdiscount.tests\\discounttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DiscountTests.cs",
+              "DocumentMoniker": "C:\\Users\\gsmk0\\Downloads\\#3 Class - Software Quality\\LaptopDiscount\\LaptopDiscount.Tests\\DiscountTests.cs",
+              "RelativeDocumentMoniker": "LaptopDiscount.Tests\\DiscountTests.cs",
+              "ToolTip": "C:\\Users\\gsmk0\\Downloads\\#3 Class - Software Quality\\LaptopDiscount\\LaptopDiscount.Tests\\DiscountTests.cs",
+              "RelativeToolTip": "LaptopDiscount.Tests\\DiscountTests.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAIwFMAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T21:37:06.818Z",
+              "EditorCaption": ""
             }
           ]
         }

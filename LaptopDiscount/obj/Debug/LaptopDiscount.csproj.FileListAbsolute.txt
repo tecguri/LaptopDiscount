@@ -5,3 +5,10 @@ C:\Users\Rob\source\repos\LaptopDiscount\LaptopDiscount\bin\Debug\LaptopDiscount
 C:\Users\Rob\source\repos\LaptopDiscount\LaptopDiscount\bin\Debug\LaptopDiscount.pdb
 C:\Users\Rob\source\repos\LaptopDiscount\LaptopDiscount\obj\Debug\LaptopDiscount.exe
 C:\Users\Rob\source\repos\LaptopDiscount\LaptopDiscount\obj\Debug\LaptopDiscount.pdb
+C:\Users\gsmk0\Downloads\#3 Class - Software Quality\LaptopDiscount\LaptopDiscount\bin\Debug\LaptopDiscount.exe.config
+C:\Users\gsmk0\Downloads\#3 Class - Software Quality\LaptopDiscount\LaptopDiscount\bin\Debug\LaptopDiscount.exe
+C:\Users\gsmk0\Downloads\#3 Class - Software Quality\LaptopDiscount\LaptopDiscount\bin\Debug\LaptopDiscount.pdb
+C:\Users\gsmk0\Downloads\#3 Class - Software Quality\LaptopDiscount\LaptopDiscount\obj\Debug\LaptopDiscount.csproj.AssemblyReference.cache
+C:\Users\gsmk0\Downloads\#3 Class - Software Quality\LaptopDiscount\LaptopDiscount\obj\Debug\LaptopDiscount.csproj.CoreCompileInputs.cache
+C:\Users\gsmk0\Downloads\#3 Class - Software Quality\LaptopDiscount\LaptopDiscount\obj\Debug\LaptopDiscount.exe
+C:\Users\gsmk0\Downloads\#3 Class - Software Quality\LaptopDiscount\LaptopDiscount\obj\Debug\LaptopDiscount.pdb
